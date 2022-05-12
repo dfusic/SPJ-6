@@ -1,0 +1,43 @@
+[   {
+    "id":1,
+    "naziv":"Laptop Acer Aspire",
+    "proizvodac":"Acer",
+    "model":"Aspire 3",
+    "cijena":4000,
+    "kolicina":2
+    },
+    {
+        "id":2,
+        "naziv":"Laptop go",
+        "proizvodac":"Microsoft",
+        "model":"Surface",
+        "cijena":6839,
+        "kolicina":0
+    },
+    {
+        "id":3,
+        "naziv":"MacBook Air",
+        "proizvodac":"Apple",
+        "model":"AppleM",
+        "cijena":9000,
+        "kolicina":1
+    },
+    {
+        "id":4,
+        "naziv":"Predator Helios",
+        "proizvodac":"Acer",
+        "model":"Predator",
+        "cijena":14000,
+        "kolicina":1
+    },
+    {
+        "id":5,
+        "naziv":"Pavilion Gaming",
+        "proizvodac":"HP",
+        "model":"Pavilion",
+        "cijena":7000,
+        "kolicina":1
+    }
+
+
+]
